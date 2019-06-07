@@ -13,4 +13,4 @@
 }
   return string
 }
-console.log(removemarks('What went wrone???????'))
+console.log(removemarks('What went wrong???????'))
