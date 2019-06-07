@@ -3,6 +3,6 @@ function email(string){
     string = string.match(regx) // matches to see if it exists
     if(string) return true // if so return true
     else return false // else it's false
-    return string
+    
 }
 console.log(email('john.smith@email.com'))
